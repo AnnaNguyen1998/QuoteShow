@@ -64,6 +64,16 @@ let quotes = [
         "year": 1986
     },
 
+    {
+        "quotes": "Dream don't work unless you do.",
+
+        "source": "Ferris Bueller",
+
+        "citation": "Movie",
+
+        "year": 1986
+    },
+
 
 
 ];
