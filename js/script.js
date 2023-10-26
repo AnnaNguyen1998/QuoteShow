@@ -72,7 +72,7 @@ let quotes = [
         "citation": "Movie",
 
         "year": 1986
-    },
+    }
 
 
 
